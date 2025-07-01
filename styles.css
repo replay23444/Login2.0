@@ -1,6 +1,6 @@
 dory{
     font-family: Arial, Helvetica, sans-serif;
-    background-image: -moz-linear-gradient(45deg,cyan,yellow);
+    background-image: -moz-linear-gradient(45deg,rgb(255, 30, 0),yellow);
 }
 div{
     background-color: rgb(0, 0, 139);
